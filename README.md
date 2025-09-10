@@ -1,5 +1,7 @@
 # 의약품 처방 데이터 분석 프로젝트
 
+> - [의약품 처방 데이터 분석 프로젝트 보고서](https://chungjuwon.github.io/prescription-data-analysis/prescription_data_analysis.pdf)
+
 ## 개요
 
 국민건강보험공단에서 제공한 2019~2021년 처방 데이터를 바탕으로  
